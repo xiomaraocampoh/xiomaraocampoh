@@ -1,10 +1,10 @@
-**👋 ¡Hola! Soy Xiomara Ocampo Hurtado**
+# 👋 ¡Hola! Soy Xiomara Ocampo Hurtado
 
 Soy estudiante de tercer semestre de Ingeniería de Software en la Corporación Universitaria Empresarial Alexander Von Humboldt, con formación técnica en desarrollo de software desde el colegio. Me apasiona la programación, la automatización y el desarrollo de soluciones tecnológicas con impacto educativo.
 
 Actualmente, estoy fortaleciendo mis habilidades en la creación de APIs y en el uso de tecnologías como Java, Spring Boot, JavaScript, Python, Django, MySQL, Bootstrap, HTML y CSS.
 
-**🛠️ Tecnologías que uso**
+# 🛠️ Tecnologías que uso
 
 - Lenguajes de programación: Java, Python, JavaScript
 
@@ -14,7 +14,7 @@ Actualmente, estoy fortaleciendo mis habilidades en la creación de APIs y en el
 
 - Otros: Programación por bloques,Postman, VS Code, xammp, db_browser, Arduino, Word, Excel, Canva, Unity y  GitHub
 
-**🚀 Proyectos destacados**
+# 🚀 Proyectos destacados
 
 🎯 Marketplace Web
 
@@ -27,10 +27,10 @@ Tecnologías: Django, JavaScript, Bootstrap, OpenAI API
 💬 Red A.E: Plataforma de comunicación entre estudiantes y docentes.
 🌱 Simulación VR/AR de invernadero escolar: Proyecto educativo en Unity con tecnologías de realidad virtual y aumentada.
 
-**🧠 Actualmente estoy aprendiendo**
+# **🧠 Actualmente estoy aprendiendo**
 Estoy profundizando en el desarrollo de microservicios utilizando diferentes lenguajes de programación y herramientas modernas. Además, me interesa aprender y practicar con Node.js, para ampliar mis habilidades en desarrollo backend.
 
-**📫 Cómo contactarme**
+ # **📫 Cómo contactarme**
 Si quieres hablar sobre proyectos, colaboraciones o simplemente compartir ideas, puedes encontrarme en:
 
 📧 Correo: xocampo_165@cue.edu.co
